@@ -1,7 +1,7 @@
 class Placeholder 	
 
 	def initialize
-		@url = 'http://placehold.it/'	
+		@url = 'http://placehold.it'	
 	end
 	
 	def image_url(options = {})
