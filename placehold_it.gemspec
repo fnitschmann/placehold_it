@@ -9,8 +9,8 @@ Gem::Specification.new do |gem|
   gem.version       = PlaceholdIt::VERSION
   gem.authors       = ["Florian Nitschmann"]
   gem.email         = ["f.nitschmann@visionred.org"]
-  gem.description   = %q{A Gem for custom placeholder images created on placehold.it}
-  gem.summary       = %q{Gem for easy placeholder images with Rails.}
+  gem.description   = %q{A Gem for custom placeholder images created by www.placehold.it}
+  gem.summary       = %q{Gem for simple placeholder images in Rails.}
   gem.homepage      = "https://github.com/fnitschmann/placehold_it"
 
   gem.files         = `git ls-files`.split($/)
